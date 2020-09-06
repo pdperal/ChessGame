@@ -10,6 +10,7 @@
         {
             Linhas = linhas;
             Colunas = colunas;
+            Pecas = new Peca[linhas, colunas];
         }
     }
 }
